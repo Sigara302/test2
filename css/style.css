@@ -445,6 +445,9 @@ a {
 .end__logo-items{
     display: flex;
 }
+.end__logo-items a+a{
+margin-left: 14px;
+}
 
 .end__link{
     display: flex;
